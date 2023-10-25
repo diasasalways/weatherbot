@@ -6,8 +6,8 @@ import logging
 import signal
 import sys
 
-TOKEN = "6379449727:AAGdgVUyMe3CDjWhYx70O-7EiLRz9bJ6hq8"
-OWM_KEY = "904d31598fd40a05a2eb0b95bd3fd2da"
+TOKEN = "TELEGRAM_BOT_TOKEN"
+OWM_KEY = "OPENWEATHER_API_KEY"
 POLLING_TIMEOUT = None
 
 
